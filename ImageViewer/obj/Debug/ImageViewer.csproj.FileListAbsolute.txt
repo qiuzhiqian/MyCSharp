@@ -1,0 +1,9 @@
+G:\C#_source\MyDemo\ImageViewer\bin\Debug\ImageViewer.exe.config
+G:\C#_source\MyDemo\ImageViewer\bin\Debug\ImageViewer.exe
+G:\C#_source\MyDemo\ImageViewer\bin\Debug\ImageViewer.pdb
+G:\C#_source\MyDemo\ImageViewer\obj\Debug\ImageViewer.csprojResolveAssemblyReference.cache
+G:\C#_source\MyDemo\ImageViewer\obj\Debug\ImageViewer.Form1.resources
+G:\C#_source\MyDemo\ImageViewer\obj\Debug\ImageViewer.Properties.Resources.resources
+G:\C#_source\MyDemo\ImageViewer\obj\Debug\ImageViewer.csproj.GenerateResource.Cache
+G:\C#_source\MyDemo\ImageViewer\obj\Debug\ImageViewer.exe
+G:\C#_source\MyDemo\ImageViewer\obj\Debug\ImageViewer.pdb

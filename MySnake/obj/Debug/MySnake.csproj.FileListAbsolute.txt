@@ -1,0 +1,9 @@
+G:\C#_source\MyDemo\MySnake\bin\Debug\MySnake.exe.config
+G:\C#_source\MyDemo\MySnake\bin\Debug\MySnake.exe
+G:\C#_source\MyDemo\MySnake\bin\Debug\MySnake.pdb
+G:\C#_source\MyDemo\MySnake\obj\Debug\MySnake.csprojResolveAssemblyReference.cache
+G:\C#_source\MyDemo\MySnake\obj\Debug\MySnake.Form1.resources
+G:\C#_source\MyDemo\MySnake\obj\Debug\MySnake.Properties.Resources.resources
+G:\C#_source\MyDemo\MySnake\obj\Debug\MySnake.csproj.GenerateResource.Cache
+G:\C#_source\MyDemo\MySnake\obj\Debug\MySnake.exe
+G:\C#_source\MyDemo\MySnake\obj\Debug\MySnake.pdb
